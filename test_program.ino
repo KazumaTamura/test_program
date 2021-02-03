@@ -1,3 +1,7 @@
+/*
+足回りクラス動かす用のプログラム
+*/
+
 void setup() {
   // put your setup code here, to run once:
 
