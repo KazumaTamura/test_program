@@ -1,6 +1,8 @@
 /*
 足回りクラス動かす用のプログラム
 */
+コントローラクラスを使うためのプログラム
+/*
 
 void setup() {
   // put your setup code here, to run once:
