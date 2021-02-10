@@ -3,6 +3,8 @@
 */
 // コントローラクラスを使うためのプログラム
 
+// robotA用にメインを書き換える
+
 
 void setup() {
   // put your setup code here, to run once:
