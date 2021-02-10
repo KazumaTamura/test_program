@@ -3,6 +3,7 @@
 */
 // コントローラクラスを使うためのプログラム
 
+// ロボットB用に書き加えた.
 
 void setup() {
   // put your setup code here, to run once:
